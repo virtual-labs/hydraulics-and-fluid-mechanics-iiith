@@ -1,0 +1,139 @@
+{
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Hydraulics and Fluid Mechanics Lab",
+  "phase": 2,
+  "deployLab": true,
+  "collegeName": "IIITH",
+  "baseUrl": "eerc03-iiith.vlabs.ac.in",
+  "introduction": "Welcome to the Hydraulics and Fluid Mechanics Lab",
+  "experiments": [
+    {
+      "name": "Bernoulli's Experiment",
+      "short-name": "bernoulli's-experiment",
+      "repo": "https://github.com/virtual-labs/exp-bernoullis-iiith ",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Venturi Meter Experiment ",
+      "short-name": "venturi-meter-experiment ",
+      "repo": "https://github.com/virtual-labs/exp-venturi-meter-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Orifices Experiment",
+      "short-name": "orifices-experiment",
+      "repo": "https://github.com/virtual-labs/exp-orifices-iiith ",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Mouthpieces Experiment",
+      "short-name": "mouthpieces-experiment",
+      "repo": "https://github.com/virtual-labs/exp-mouthpieces-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Weirs Experiment",
+      "short-name": "weirs-experiment",
+      "repo": "https://github.com/virtual-labs/exp-weirs-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Channels Experiment",
+      "short-name": "channels-experiment",
+      "repo": "https://github.com/virtual-labs/exp-channels-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Reynold's Experiment",
+      "short-name": "reynold's-experiment",
+      "repo": "https://github.com/virtual-labs/exp-reynolds-iiith ",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Jets Experiment",
+      "short-name": "jets-experiment",
+      "repo": "https://github.com/virtual-labs/exp-jets-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Turbines Experiment",
+      "short-name": "turbines-experiment",
+      "repo": "https://github.com/virtual-labs/exp-turbines-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["Senior undergraduate students"],
+    "PG": ["Postgraduate students and Research scholars"]
+  },
+  "objective": "To learn and understand the basic concepts of Hydraulics and Fluid Mechanics.",
+  "courseAlignment": {
+    "description": "This virtual lab on Hydraulics and Fluid Mechanics is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Hydraulics and Fluid Mechanics just by going through the designed experiments.",
+    "universities": ["Universities with Civil Engineering"]
+  },
+  "version": "v0.1.7",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "observations",
+      "target": "observations.html",
+      "source": "observations.md",
+      "label": "Observations"
+    },
+    {
+      "item": "assignment",
+      "target": "assignment.html",
+      "source": "assignment.md",
+      "label": "Assignment"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ],
+  "exp_name": "Turbines Experiment",
+  "exp_short_name": "turbines-experiment"
+}

@@ -13,13 +13,13 @@
     {
       "name": "Bernoulli's Experiment",
       "short-name": "bernoulli's-experiment",
-      "repo": "https://github.com/virtual-labs/exp-bernoullis-iiith ",
-      "tag": "v1.0.0",
+      "repo": "https://github.com/virtual-labs/exp-bernoullis-iiith",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Venturi Meter Experiment ",
-      "short-name": "venturi-meter-experiment ",
+      "name": "Venturi Meter Experiment",
+      "short-name": "venturi-meter-experiment",
       "repo": "https://github.com/virtual-labs/exp-venturi-meter-iiith",
       "tag": "v1.0.0",
       "deploy": true
@@ -27,22 +27,22 @@
     {
       "name": "Orifices Experiment",
       "short-name": "orifices-experiment",
-      "repo": "https://github.com/virtual-labs/exp-orifices-iiith ",
-      "tag": "v1.0.0",
+      "repo": "https://github.com/virtual-labs/exp-orifices-iiith",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Mouthpieces Experiment",
       "short-name": "mouthpieces-experiment",
       "repo": "https://github.com/virtual-labs/exp-mouthpieces-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Weirs Experiment",
       "short-name": "weirs-experiment",
       "repo": "https://github.com/virtual-labs/exp-weirs-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -56,14 +56,14 @@
       "name": "Reynold's Experiment",
       "short-name": "reynold's-experiment",
       "repo": "https://github.com/virtual-labs/exp-reynolds-iiith ",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Jets Experiment",
       "short-name": "jets-experiment",
       "repo": "https://github.com/virtual-labs/exp-jets-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {

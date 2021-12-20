@@ -42,7 +42,7 @@
       "name": "Weirs Experiment",
       "short-name": "weirs",
       "repo": "https://github.com/virtual-labs/exp-weirs-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
@@ -83,7 +83,7 @@
     "description": "This virtual lab on Hydraulics and Fluid Mechanics is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Hydraulics and Fluid Mechanics just by going through the designed experiments.",
     "universities": ["Universities with Civil Engineering"]
   },
-  "version": "v0.6.0",
+  "version": "v0.7.0",
   "production": true,
   "current_item": {
     "item": "feedback",

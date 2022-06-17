@@ -4,6 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Hydraulics and fluid mechanics",
+  "lab_display_name": "Hydraulics and fluid mechanics",
   "phase": 2,
   "deployLab": true,
   "collegeName": "IIITH",
@@ -14,63 +15,63 @@
       "name": "Bernoulli's Experiment",
       "short-name": "bernoullis",
       "repo": "https://github.com/virtual-labs/exp-bernoullis-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Venturi Meter Experiment",
       "short-name": "venturi-meter",
       "repo": "https://github.com/virtual-labs/exp-venturi-meter-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Orifices Experiment",
       "short-name": "orifices",
       "repo": "https://github.com/virtual-labs/exp-orifices-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Mouthpieces Experiment",
       "short-name": "mouthpieces",
       "repo": "https://github.com/virtual-labs/exp-mouthpieces-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Weirs Experiment",
       "short-name": "weirs",
       "repo": "https://github.com/virtual-labs/exp-weirs-iiith",
-      "tag": "v1.0.3",
+      "tag": "v1.0.4",
       "deploy": true
     },
     {
       "name": "Channels Experiment",
       "short-name": "channels",
       "repo": "https://github.com/virtual-labs/exp-channels-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Reynold's Experiment",
       "short-name": "reynolds",
       "repo": "https://github.com/virtual-labs/exp-reynolds-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Jets Experiment",
       "short-name": "jets",
       "repo": "https://github.com/virtual-labs/exp-jets-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Turbines Experiment",
       "short-name": "turbines",
       "repo": "https://github.com/virtual-labs/exp-turbines-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -83,7 +84,7 @@
     "description": "This virtual lab on Hydraulics and Fluid Mechanics is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Hydraulics and Fluid Mechanics just by going through the designed experiments.",
     "universities": ["Universities with Civil Engineering"]
   },
-  "version": "v0.7.0",
+  "version": "v0.8.0",
   "production": true,
   "current_item": {
     "item": "feedback",

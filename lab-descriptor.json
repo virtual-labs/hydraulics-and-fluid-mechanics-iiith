@@ -4,7 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Hydraulics and fluid mechanics",
-  "lab_display_name": "Hydraulics and fluid mechanics",
+  "lab_display_name": "Hydraulics and Fluid Mechanics Lab",
   "phase": 2,
   "deployLab": true,
   "collegeName": "IIITH",
@@ -84,7 +84,7 @@
     "description": "This virtual lab on Hydraulics and Fluid Mechanics is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Hydraulics and Fluid Mechanics just by going through the designed experiments.",
     "universities": ["Universities with Civil Engineering"]
   },
-  "version": "v0.13.0",
+  "version": "v0.14.0",
   "production": true,
   "current_item": {
     "item": "feedback",
